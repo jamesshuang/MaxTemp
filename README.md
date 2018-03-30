@@ -1,4 +1,5 @@
 # Mean Max Temperature - Hadoop MapReduce
+Project for CS1699 - Cloud Computing
 
 Finds the mean maximum temperature for everyday of the year for each weather station using MapReduce.
 
