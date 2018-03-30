@@ -1,4 +1,4 @@
-# MaxTemp - Hadoop MapReduce
+# Mean Max Temperature - Hadoop MapReduce
 
 Finds the mean maximum temperature for everyday of the year for each weather station using MapReduce.
 
